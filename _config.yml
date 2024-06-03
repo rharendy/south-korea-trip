@@ -37,7 +37,7 @@ defaults:
 #    output: true
 #    permalink: /:collection/:name
 
-collections:
-  markdown_files:
-    output: true
-    permalink: /:name
+#collections:
+#  markdown_files:
+#    output: true
+#    permalink: /:name
