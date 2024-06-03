@@ -47,3 +47,8 @@ defaults:
 #  markdown_files:
 #    output: true
 #    permalink: /:name
+
+collections:
+  markdown_files:
+    output: true
+    permalink: /:collection/:name
