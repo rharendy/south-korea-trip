@@ -1,5 +1,5 @@
----
 layout: default
+title: Budget
 ---
 Calculating a moderate budget for a trip to South Korea, including accommodation, meals, transportation, and activities, can vary depending on personal preferences, travel style, and the level of comfort desired. However, I can provide a rough estimate based on average costs.
 
