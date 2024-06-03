@@ -2,7 +2,7 @@ title: Dinky theme
 description: Dinky is a red hot theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-baseurl: "/dinky" # the subpath of your site, e.g. /blog
+#baseurl: "/dinky" # the subpath of your site, e.g. /blog
 
 # Build settings
 theme: jekyll-theme-dinky
