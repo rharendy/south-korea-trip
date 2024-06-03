@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Tourist Attractions in Seoul
 ---
 Seoul is a vibrant city with a rich history, offering a variety of tourist attractions that cater to different interests. Here are some must-visit local attractions in Seoul:
 

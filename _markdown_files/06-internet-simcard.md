@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Internet and SIM cards
 ---
 Getting affordable internet access in Seoul is quite convenient, with options ranging from eSIMs to pocket Wi-Fi devices. Here are some ways to ensure you stay connected without breaking the bank:
 

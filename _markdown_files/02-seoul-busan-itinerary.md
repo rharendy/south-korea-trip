@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Seoul and Busan Itinerary
 ---
 Here’s a sample itinerary for spending four days split between Seoul and Busan, highlighting some of the must-visit attractions in each city:
 
