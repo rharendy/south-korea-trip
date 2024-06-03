@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Food and Markets
+title: Food, Markets, and Restaurants
 ---
 Seoul is a paradise for food lovers, offering a wide variety of delicious and unique Korean dishes. Here's a list of local foods to try and where to find them in Seoul:
 

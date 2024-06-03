@@ -1,5 +1,6 @@
 ---
 layout: default
+tittle: Cash and Other Payments
 ---
 When traveling in Seoul, having multiple payment options can enhance your convenience and ensure you’re prepared for different scenarios. Here are the best payment options to consider:
 
