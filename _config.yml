@@ -3,3 +3,10 @@ description: Dinky is a red hot theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-dinky
+
+defaults:
+  - 
+    scope:
+      path: "01-two-persons-budget.md"
+    values:
+      permalink: "file01.html"
