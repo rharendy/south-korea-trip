@@ -32,7 +32,12 @@ defaults:
     values:
       permalink: "2.html"
 
+#collections:
+#  markdown_files:
+#    output: true
+#    permalink: /:collection/:name
+
 collections:
   markdown_files:
     output: true
-    permalink: /:collection/:name
+    permalink: /:name
