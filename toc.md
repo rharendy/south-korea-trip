@@ -7,7 +7,6 @@ title: Table of Contents
 
 <ul>
   {% for file in site.markdown_files %}
-    <li><a href="{{ file.url }}">{{ file.title }}</a></li>
+    <a href="{{ file.url | relative_url }}">{{ file.path }}</a>
   {% endfor %}
 </ul>
-
