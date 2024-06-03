@@ -1,3 +1,6 @@
+---
+layout: default
+---
 The best time to visit Cheonggyecheon Stream in Seoul is during the daytime when you can fully appreciate its natural beauty, artwork, and cultural significance. Here's the recommended time to visit and the train or bus schedule to get there:
 
 ### Best Time to Visit Cheonggyecheon Stream:

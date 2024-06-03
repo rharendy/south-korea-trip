@@ -1,3 +1,6 @@
+---
+layout: default
+---
 For budget accommodations in Seoul, you have several options ranging from guesthouses to budget hotels. Here are some recommended options for two persons:
 
 1. **Hostels/Guesthouses**:

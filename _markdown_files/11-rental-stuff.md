@@ -1,3 +1,6 @@
+---
+layout: default
+---
 When visiting Seoul, there are several items and services you can rent to enhance your travel experience. Here are some popular options:
 
 ### 1. **Pocket Wi-Fi**

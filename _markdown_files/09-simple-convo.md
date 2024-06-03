@@ -1,3 +1,6 @@
+---
+layout: default
+---
 Here are some simple daily conversations and greetings in Korean that can help you get by while traveling in Seoul:
 
 ### Greetings:

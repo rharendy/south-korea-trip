@@ -1,3 +1,6 @@
+---
+layout: default
+---
 Getting around Seoul using public transportation is convenient and efficient thanks to its extensive network of subways, buses, and taxis. Here's how to navigate public transportation in Seoul:
 
 ### 1. **Subway (Metro)**:

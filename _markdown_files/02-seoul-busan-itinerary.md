@@ -1,3 +1,6 @@
+---
+layout: default
+---
 Here’s a sample itinerary for spending four days split between Seoul and Busan, highlighting some of the must-visit attractions in each city:
 
 ### Day 1: Arrival in Seoul

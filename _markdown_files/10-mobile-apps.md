@@ -1,3 +1,6 @@
+---
+layout: default
+---
 When traveling to Seoul, installing certain mobile apps can greatly enhance your experience and make navigating the city easier. Here are some essential apps to consider:
 
 ### 1. **Naver Map or KakaoMap**

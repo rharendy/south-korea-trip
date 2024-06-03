@@ -1,3 +1,6 @@
+---
+layout: default
+---
 Exploring the big universities in Seoul can be a fascinating way to experience the vibrant academic and cultural atmosphere of the city. Here's a suggested itinerary for visiting some of the most prominent universities in Seoul:
 
 ### Day 1: Northern Seoul Universities

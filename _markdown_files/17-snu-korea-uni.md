@@ -1,3 +1,6 @@
+---
+layout: default
+---
 Sure, let's detail Day 2 of your itinerary, including train and bus schedules for visiting Seoul National University and Korea University:
 
 ### Day 2: Southern Seoul Universities

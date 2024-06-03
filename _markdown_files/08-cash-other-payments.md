@@ -1,3 +1,6 @@
+---
+layout: default
+---
 When traveling in Seoul, having multiple payment options can enhance your convenience and ensure you’re prepared for different scenarios. Here are the best payment options to consider:
 
 ### 1. **Credit and Debit Cards**

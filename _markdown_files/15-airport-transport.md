@@ -1,3 +1,6 @@
+---
+layout: default
+---
 Getting from Incheon International Airport to Seoul city on a budget is relatively easy with several affordable transportation options available:
 
 ### 1. **Airport Railroad Express (AREX) Train**:

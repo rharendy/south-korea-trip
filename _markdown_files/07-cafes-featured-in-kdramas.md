@@ -1,3 +1,6 @@
+---
+layout: default
+---
 Seoul is home to numerous cafes that have been featured in popular Korean dramas (K-Dramas), attracting fans from around the world. Here are some iconic cafes worth visiting:
 
 1. **Cafe Yeonnam-dong 239-20 (Cafe Yeonnam-dong 223-14)**:
