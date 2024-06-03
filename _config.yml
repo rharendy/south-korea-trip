@@ -2,16 +2,37 @@ title: Dinky theme
 description: Dinky is a red hot theme for GitHub Pages.
 show_downloads: true
 google_analytics:
+
+# Build settings
 theme: jekyll-theme-dinky
+#plugins:
+#  - jekyll-feed
+#  - jekyll-sitemap
+#  - jekyll-toc
+
+# Exclude these from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 defaults:
   - 
     scope:
       path: "01-two-persons-budget.md"
     values:
-      permalink: "file01.html"
+      permalink: "1.html"
   - 
     scope:
       path: "02-seoul-busan-itinerary.md"
     values:
-      permalink: "file02.html"
+      permalink: "2.html"
+
+collections:
+  markdown_files:
+    output: true
+    permalink: /:collection/:name
