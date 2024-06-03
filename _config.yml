@@ -5,6 +5,12 @@ google_analytics:
 
 # Build settings
 theme: jekyll-theme-dinky
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-toc
+  - jekyll-tagging
 #plugins:
 #  - jekyll-feed
 #  - jekyll-sitemap
