@@ -10,3 +10,8 @@ defaults:
       path: "01-two-persons-budget.md"
     values:
       permalink: "file01.html"
+  - 
+    scope:
+      path: "02-seoul-busan-itinerary.md"
+    values:
+      permalink: "file02.html"
