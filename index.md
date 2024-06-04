@@ -2,11 +2,10 @@
 layout: default
 title: Table of Contents
 ---
+<h1>Table of Contents</h1>
 <p>
 Embark on an unforgettable journey through Seoul and Busan with our comprehensive guide tailored for travelers on a budget. 
 </p>
-
-<h1>Table of Contents</h1>
 
 <ul>
 {% for file in site.markdown_files %}
