@@ -2,7 +2,6 @@
 layout: default
 ---
 <h1>{{ site.title }}</h1>
-<h1>Introduction</h1>
 <p>{{ site.description }}</p>
 
 <ul>
