@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Visiting SNU and Korea University - Day 2
+title: Visiting SNU and Korea University (Day 2)
 ---
-Sure, let's detail Day 2 of your itinerary, including train and bus schedules for visiting Seoul National University and Korea University:
+Visiting SNU and Korea University, including train and bus schedules for visiting Seoul National University and Korea University:
 
 ### Day 2: Southern Seoul Universities
 
