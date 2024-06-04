@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Table of Contents
 ---
+<h1>{{ site.title }}</h1>
 <h1>Introduction</h1>
-<p>
-Embark on an unforgettable journey through Seoul and Busan with our comprehensive guide tailored for travelers on a budget. 
-</p>
+<p>{{ site.description }}</p>
 
 <ul>
 {% for file in site.markdown_files %}
