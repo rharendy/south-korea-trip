@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting from Incheon International Airport to Seoul city
+title: Getting from Incheon Airport to Seoul city
 ---
 Getting from Incheon International Airport to Seoul city on a budget is relatively easy with several affordable transportation options available:
 
