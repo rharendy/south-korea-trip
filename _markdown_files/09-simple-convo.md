@@ -1,5 +1,6 @@
 ---
 layout: default
+tittle: Essential Daily Conversations for Getting By
 ---
 Here are some simple daily conversations and greetings in Korean that can help you get by while traveling in Seoul:
 

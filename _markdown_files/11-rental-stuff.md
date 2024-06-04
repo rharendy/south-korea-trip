@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Top Items and Services to Rent in Seoul
 ---
 When visiting Seoul, there are several items and services you can rent to enhance your travel experience. Here are some popular options:
 

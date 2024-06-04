@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Food Options to Stock at Your Accommodations
 ---
 Stocking budget-friendly food items at your hotel can be convenient for quick meals, snacks, and saving money during your trip. Here are some affordable food options to consider stocking:
 

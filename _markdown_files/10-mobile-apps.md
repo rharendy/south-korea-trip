@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Must-Have Mobile Apps for Exploring Seoul
 ---
 When traveling to Seoul, installing certain mobile apps can greatly enhance your experience and make navigating the city easier. Here are some essential apps to consider:
 

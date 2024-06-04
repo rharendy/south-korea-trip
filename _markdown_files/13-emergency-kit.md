@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Emergency Kit
 ---
 When in Korea, it's important to have an emergency kit handy, especially if you're traveling or residing in the country for an extended period. Here's a list of items to include in your emergency kit tailored for Korea:
 

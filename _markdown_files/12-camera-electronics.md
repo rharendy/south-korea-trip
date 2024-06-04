@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Essential Electronic and Camera Gear
 ---
 When traveling to South Korea, especially to cities like Seoul and Busan, you'll want to bring along certain electronic and camera equipment to capture memories, stay connected, and navigate efficiently. Here's a list of essential items to consider bringing:
 
