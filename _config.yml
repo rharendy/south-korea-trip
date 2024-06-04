@@ -27,18 +27,6 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-defaults:
-  - 
-    scope:
-      path: "01-two-persons-budget.md"
-    values:
-      permalink: "1.html"
-  - 
-    scope:
-      path: "02-seoul-busan-itinerary.md"
-    values:
-      permalink: "2.html"
-
 #collections:
 #  markdown_files:
 #    output: true
