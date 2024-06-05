@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Itinerary Day 1 - Option 2
+title: "Itinerary Day 1 (Option 2): Gyeongbokgung Palace, Bukchon Hanok Village, Insadong, Jogyesa Temple, Myeongdong, Seoul Tower, Itaewon, Han River Cruise"
 ---
 
 ### Morning: Exploring Historic Seoul
