@@ -1,6 +1,8 @@
----                                                                                                                                                         layout: default
+---
+layout: default
 title: Ridesharing in Seoul
 ---
+
 Ridesharing is a convenient way to get around Seoul, especially if you're traveling with luggage or during off-hours when public transport may be less frequent. Here’s a guide on ridesharing options in Seoul, including how to use them and some suggestions:
 
 ### Ridesharing Options in Seoul
