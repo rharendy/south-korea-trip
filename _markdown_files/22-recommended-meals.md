@@ -1,6 +1,6 @@
 ---         
 layout: default
-title: "Itinerary Day 1: Recommended Drinks and Meals"
+title: "Exploring Seoul in a Day: Recommended Drinks and Meals"
 ---
 
 ### Morning: Exploring Historic Seoul
