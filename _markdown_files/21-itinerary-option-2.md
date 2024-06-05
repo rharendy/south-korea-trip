@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Itinerary Day 2
+title: "Itinerary Day 2 (Option 1): Namdaemun Market, Hongdae, Gwangjang Market, Lotte World, Cheonggyecheon Stream, Han River"
 ---
 ### Itinerary for the Remaining Venues:
 
