@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Itinerary Option 1
+title: Itinerary Day 1
 ---
 ### Suggested Itinerary with Meals and Breaks:
 
