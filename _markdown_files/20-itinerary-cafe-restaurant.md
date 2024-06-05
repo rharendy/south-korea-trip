@@ -1,4 +1,5 @@
----                                                                                                                                                         layout: default
+---         
+layout: default
 title: "Itinerary Day 1: Recommended Drinks and Meals"
 ---
 
