@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Itinerary Day 1 (Option 1): Gyeongbokgung Palace, Bukchon Hanok Village, Insadong, Myeongdong, Seoul Tower, Dongdaemun"
+title: "Exploring Seoul in a Day (Option 1): Gyeongbokgung Palace, Bukchon Hanok Village, Insadong, Myeongdong, Seoul Tower, Dongdaemun"
 ---
 ### Suggested Itinerary with Meals and Breaks:
 

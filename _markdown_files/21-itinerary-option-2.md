@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Itinerary Day 2 (Option 1): Namdaemun Market, Hongdae, Gwangjang Market, Lotte World, Cheonggyecheon Stream, Han River"
+title: "Exploring Seoul in a Day (Option 3): Namdaemun Market, Hongdae, Gwangjang Market, Lotte World, Cheonggyecheon Stream, Han River"
 ---
 ### Itinerary for the Remaining Venues:
 
