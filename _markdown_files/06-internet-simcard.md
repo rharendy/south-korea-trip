@@ -55,7 +55,7 @@ Many convenience stores like GS25, CU, and 7-Eleven sell prepaid SIM cards and o
 - **Prepaid SIM Card**: Around AUD 20-40 for 5-10 GB of data, valid for 10-30 days.
 - **Pocket Wi-Fi**: Around AUD 3-7 per day for unlimited data.
 
-### Other Reference
+### Other Reference:
 - [LG U+](https://www.lguplus.com/ib-roaming/pc/eng)
 - [Chingu Mobile](https://chingumobile.com/)
 - [Trazy](https://www.trazy.com/experience/detail/korea-sim-card-unlimited-data-voice-call-sms)

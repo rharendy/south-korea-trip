@@ -65,6 +65,9 @@ Stocking budget-friendly food items at your hotel can be convenient for quick me
 2. **Sauces and Dressings**:
    - Pack small portions of soy sauce, ketchup, mustard, or salad dressing for added flavor.
 
+### Must Bring from Sydney:
+   - Sirena tuna can, Indomie/Pop Me, Whittaker's Chocolates
+
 ### Shopping Tips:
 
 - **Visit Local Markets**: Explore nearby supermarkets or convenience stores to find budget-friendly food options.
