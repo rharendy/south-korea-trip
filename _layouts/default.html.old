@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <!-- Up arrow -->
+  <!-- Back to Top -->
   <style>
     #back-to-top {
       position: fixed;
@@ -23,20 +23,24 @@
       cursor: pointer;
       z-index: 999;
     }
-
-  .back-to-home {
-    color: #007bff;
-    text-decoration: none;
-    font-size: 18px;
-  }
-  .back-to-home:hover {
-    text-decoration: underline;
-  }
-  .arrow {
-    margin-right: 5px;
-  }
   </style>
-  <!-- Up arrow -->
+
+
+  <!-- Home -->
+  <style>
+    .home-button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #007bff;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+
+    .home-button:hover {
+      background-color: #0056b3;
+    }
+  </style>
 
   {% seo %}
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
@@ -54,14 +58,9 @@
   </section>
 
   <footer>
-    <p><small>
-      <a href="/south-korea-trip/" class="back-to-home"><span class="arrow">&larr;</span> Home</a>
-    </small></p>
+    <p><small><a href="/south-korea-trip/">Home</a></small></p>
   </footer>
 </div>
-
-<!-- Up arrow -->
-<div id="back-to-top">&uarr;</div>
 
 <script>
   window.onscroll = function() {scrollFunction()};
@@ -79,7 +78,6 @@
     document.documentElement.scrollTop = 0;
   };
 </script>
-<!-- Up arrow -->
 
 <!--[if !IE]><script>fixScale(document);</script><![endif]-->
 </body>
