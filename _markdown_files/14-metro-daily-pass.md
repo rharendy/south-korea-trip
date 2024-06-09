@@ -1,6 +1,7 @@
 ---                                                                                                                                                         layout: default
 title: Metro Daily Pass
 ---
+
 When traveling around Seoul, using the metro is one of the most convenient and cost-effective methods. Here's everything you need to know about getting a metro daily pass in Seoul:
 
 ### Types of Metro Passes in Seoul
