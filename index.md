@@ -7,7 +7,7 @@ layout: default
 <ul>
 {% for file in site.markdown_files %}
 <!-- <li> -->
-    [{{ forloop.index }}]. <a href="{{ file.url | relative_url }}">{{ file.title | file.path }}</a><br>
+    [{{ forloop.index }}] <a href="{{ file.url | relative_url }}">{{ file.title | file.path }}</a><br>
 <!-- </li> -->
 {% endfor %}
 </ul>
