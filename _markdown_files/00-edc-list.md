@@ -48,4 +48,7 @@ Packing an effective Every Day Carry (EDC) list for a sling bag while traveling 
 2. **Small Flashlight**: Useful for nighttime or low-light situations.
 3. **Reading Material**: A book or e-reader for downtime.
 
+### Files
+[Download the EDC in PDF](./files/travel_edc.pdf)
+
 This EDC list aims to balance essential travel items with convenience, ensuring a smooth and enjoyable trip in Seoul. Adjust the list based on personal preferences and specific travel needs.
