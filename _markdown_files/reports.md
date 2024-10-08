@@ -1,3 +1,7 @@
+---
+layout: default
+title: Reports
+---
 ### **Trip Summary - Day 1 (October 6, 2024, Seoul)**  
 **Total steps:** **21K**
 
