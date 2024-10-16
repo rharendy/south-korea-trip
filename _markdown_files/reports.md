@@ -114,7 +114,7 @@ title: Reports
 
 - **Morning:**  
   - **Komeda Coffee:** Started the day with breakfast at this cozy café. ([Google Maps](https://maps.app.goo.gl/LXGu8hYs2nZFsWV96))
-  - **Shopping:** Bought gifts in Asakusa and the Kappabashi area. ([See in Google Maps](https://maps.app.goo.gl/9rtddub1jWBt2ouA6))
+  - **Shopping:** Bought gifts in Asakusa and the Kappabashi area. ([See in Google Maps](https://maps.app.goo.gl/e3mv89QGN3EtEPhQ8))
   - **Ghibli Museum:** Visited the enchanting Ghibli Museum, celebrating the art of animation.  
 
 - **Afternoon/Evening:**  
