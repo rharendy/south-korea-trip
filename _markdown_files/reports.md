@@ -119,4 +119,4 @@ title: Reports
 
 - **Afternoon/Evening:**  
   - **Shinjuku:** Headed to Shinjuku for a relaxing reflexology session.  
-  - **Birthday Celebration:** Ended the trip with a special dinner at a restaurant in Ginza to celebrate my wife’s birthday. ([See in Google Maps](https://g.co/kgs/aR7sVKJ))
+  - **Birthday Celebration:** Ended the trip with a special dinner at a restaurant in Ginza to celebrate my wife’s birthday. ([See in Google Maps](https://maps.app.goo.gl/dHidpvomvXAvuo1x8))
