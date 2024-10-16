@@ -15,9 +15,9 @@ title: Reports
 
 - **Afternoon:**  
   - **Cheonggyecheon Stream:** Walked along the scenic waterway, appreciating the tranquil surroundings.  
-  - **Hoji Bobo Steak House (Itaewon):** Dined early, savoring a delicious meal. https://naver.me/FuV6ZKVa
+  - **Hoji Bobo Steak House (Itaewon):** Dined early, savoring a delicious meal. [Naver Maps](https://naver.me/FuV6ZKVa)
   - **Myeongdong Shopping Street:** Explored shops and relished street food delights.  
-  - **Cat Cafe Sarangchae:** Relaxed and played with furry friends. [Naver Maps](https://naver.me/FOMl6d2Q) https://naver.me/FOMl6d2Q
+  - **Cat Cafe Sarangchae:** Relaxed and played with furry friends. [Naver Maps](https://naver.me/FOMl6d2Q)
   - Returned to accommodation to unwind.  
 
 ---
