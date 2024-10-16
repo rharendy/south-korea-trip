@@ -6,7 +6,6 @@ title: Reports
 ### **Trip Summary**
 
 #### **Day 1 - October 6, 2024 (Seoul)**  
-**Total Steps:** 21K  
 
 - **Morning:**  
   - **Gyeongbokgung Palace:** Witnessed the Changing of the Guard Ceremony, immersing in the rich history of Korea.  
@@ -23,7 +22,6 @@ title: Reports
 ---
 
 #### **Day 2 - October 7, 2024 (Seoul)**  
-**Total Steps:** 22K  
 
 - **Morning:**  
   - **Namsan Seoul Tower:** Hiked up for stunning panoramic views of the city.  
