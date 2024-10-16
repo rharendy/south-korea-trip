@@ -40,7 +40,7 @@ title: Reports
 
 - **Morning:**  
   - **DMZ - Panmunjom:** Visited the Korean Demilitarized Zone, gaining insights into its historical significance.
-  - **Insadong:** Had lunch ([Google Maps](https://maps.app.goo.gl/UQm3LQm5DedgY3qs5))
+  - **Insadong:** Had lunch ([Google Maps](https://maps.app.goo.gl/2XpgBrPrSb9Q6v1cA))
 
 - **Afternoon:**  
   - **Han River:** Spent a leisurely afternoon by the river.  
