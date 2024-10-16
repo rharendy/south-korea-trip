@@ -115,5 +115,5 @@ title: Reports
 
 **Afternoon/Evening:**  
 - Went to **Shinjuku** for a **reflexology session**  
-- Celebrated your wife's birthday with dinner at a restaurant in **Ginza**
+- Celebrated wife's birthday with dinner at a restaurant in **Ginza**
 
