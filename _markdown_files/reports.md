@@ -69,3 +69,16 @@ title: Reports
 
 --- 
 
+### **Trip Summary - Day 2 (October 11, 2024, Tokyo/Yokohama)**
+
+**Morning:**  
+- Left the hotel and had breakfast at a **standing soba restaurant** inside **Shinagawa Station**  
+- Stopped by **Oomori** to visit the location of the old accommodation  
+- Traveled to **Yokohama**, visited the **Ramen Museum** and the **Red Brick Warehouse**  
+
+**Afternoon/Evening:**  
+- Explored **Chinatown** in **Yokohama**  
+- Enjoyed a **reflexology massage**  
+- Had dinner with **Yuri**, **Makie**, and **Yuri's husband** in **Asakusa**
+
+---
