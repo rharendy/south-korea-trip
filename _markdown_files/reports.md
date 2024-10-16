@@ -113,7 +113,7 @@ title: Reports
 #### **Day 9 - October 14, 2024 (Tokyo)**  
 
 - **Morning:**  
-  - **Komeda Coffee:** Started the day with breakfast at this cozy café.  
+  - **Komeda Coffee:** Started the day with breakfast at this cozy café. [Map](https://maps.app.goo.gl/LXGu8hYs2nZFsWV96)
   - **Shopping:** Bought gifts in Asakusa and the Kappabashi area.  
   - **Ghibli Museum:** Visited the enchanting Ghibli Museum, celebrating the art of animation.  
 
