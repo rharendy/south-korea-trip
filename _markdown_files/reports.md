@@ -58,14 +58,16 @@ title: Reports
 
 ---
 
+### **Trip Summary - Day 1 (October 10, 2024, Tokyo)**
+
 **Morning:**  
-- Arrived in **Tokyo** late on **October 9th**  
-- Visited **Asakusa Shrine**, exploring the historic site  
-- Stopped by **Shibuya** to see the **Hachiko Statue**  
-- Headed to **Shinjuku** and had lunch at **Ootoya Restaurant**, then explored **Memory Lane**  
+- Arrived in **Tokyo** the night before (Oct 9th)  
+- Visited **Asakusa Shrine**  
+- Explored **Shibuya** (Hachiko Statue) and **Shinjuku** (Memory Lane)  
 
 **Afternoon/Evening:**  
-- Enjoyed dinner at a **Monja restaurant** in **Asakusa** with **Go-san**
+- Walked through **Takeshita Street** in **Harajuku**  
+- Had dinner at a **Monja restaurant** in **Asakusa** with **Go-san**
 
 --- 
 
