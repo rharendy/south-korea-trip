@@ -39,7 +39,8 @@ title: Reports
 #### **Day 3 - October 8, 2024 (Seoul)**  
 
 - **Morning:**  
-  - **DMZ - Panmunjom:** Visited the Korean Demilitarized Zone, gaining insights into its historical significance.  
+  - **DMZ - Panmunjom:** Visited the Korean Demilitarized Zone, gaining insights into its historical significance.
+  - **Insadong:** Had lunch ([Google Maps](https://maps.app.goo.gl/UQm3LQm5DedgY3qs5))
 
 - **Afternoon:**  
   - **Han River:** Spent a leisurely afternoon by the river.  
@@ -64,7 +65,8 @@ title: Reports
 - **Morning:**  
   - Arrived in Tokyo the previous night (Oct 9th).  
   - **Asakusa Shrine:** Visited the shrine, enjoying its serene atmosphere.  
-  - **Shibuya:** Explored the Hachiko Statue and the lively streets of Shinjuku (Memory Lane).  
+  - **Shibuya:** Explored the Hachiko Statue.
+  - **Shinjuku:** Had lunch at Ootoya ([Google Maps](https://maps.app.goo.gl/hehQkLuAYLjKy6R79)), then explored Shinjuku's Memory Lane.
 
 - **Afternoon/Evening:**  
   - **Takeshita Street in Harajuku:** Strolled through this vibrant shopping street.  
