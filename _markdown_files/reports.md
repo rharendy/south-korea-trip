@@ -105,7 +105,7 @@ title: Reports
 
 - **Afternoon/Evening:**  
   - **Arashiyama Bamboo Forest:** Walked through the stunning bamboo grove.  
-  - **Dinner:** Enjoyed a delicious ramen meal in the Gion area.  
+  - **Dinner:** Enjoyed a delicious ramen meal in the Gion area. ([Google Maps](https://maps.app.goo.gl/bKzPfoMr35E6TFS48))
   - **Shinkansen Back to Tokyo:** Returned to Tokyo after a fulfilling day.  
 
 ---
