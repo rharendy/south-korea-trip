@@ -114,9 +114,9 @@ title: Reports
 
 - **Morning:**  
   - **Komeda Coffee:** Started the day with breakfast at this cozy café. ([Google Maps](https://maps.app.goo.gl/LXGu8hYs2nZFsWV96))
-  - **Shopping:** Bought gifts in Asakusa and the Kappabashi area. ([See in Google Maps](https://maps.app.goo.gl/e3mv89QGN3EtEPhQ8))
+  - **Shopping:** Bought gifts in Asakusa and the Kappabashi area. ([Maps](https://maps.app.goo.gl/e3mv89QGN3EtEPhQ8))
   - **Ghibli Museum:** Visited the enchanting Ghibli Museum, celebrating the art of animation.  
 
 - **Afternoon/Evening:**  
   - **Shinjuku:** Headed to Shinjuku for a relaxing reflexology session.  
-  - **Birthday Celebration:** Ended the trip with a special dinner at a restaurant in Ginza to celebrate my wife’s birthday. ([梅の花 銀座並木通店](https://maps.app.goo.gl/dHidpvomvXAvuo1x8))
+  - **Birthday Celebration:** Ended the trip with a special dinner at a restaurant in Ginza to celebrate my wife’s birthday. ([Google Maps](https://maps.app.goo.gl/dHidpvomvXAvuo1x8))
