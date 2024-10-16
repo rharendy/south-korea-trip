@@ -68,7 +68,7 @@ title: Reports
 
 - **Afternoon/Evening:**  
   - **Takeshita Street in Harajuku:** Strolled through this vibrant shopping street.  
-  - **Dinner:** Enjoyed a delightful meal at a Monja restaurant in Asakusa with Go-san. ([Google Maps](https://maps.app.goo.gl/sipcjUxgXXFrRx5d6)) 
+  - **Dinner:** Enjoyed a delightful meal at a Monja restaurant in Asakusa with Go-san. ([Google Maps](https://maps.app.goo.gl/5BEbYPqihz23rhoN6)) 
 
 ---
 
