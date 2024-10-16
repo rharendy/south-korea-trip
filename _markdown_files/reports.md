@@ -15,9 +15,9 @@ title: Reports
 
 - **Afternoon:**  
   - **Cheonggyecheon Stream:** Walked along the scenic waterway, appreciating the tranquil surroundings.  
-  - **Hoji Bobo Steak House (Itaewon):** Dined early, savoring a delicious meal. [Naver Maps](https://naver.me/FuV6ZKVa)
+  - **Hoji Bobo Steak House (Itaewon):** Dined early, savoring a delicious meal. ([Naver Maps](https://naver.me/FuV6ZKVa))
   - **Myeongdong Shopping Street:** Explored shops and relished street food delights.  
-  - **Cat Cafe Sarangchae:** Relaxed and played with furry friends. [Naver Maps](https://naver.me/FOMl6d2Q)
+  - **Cat Cafe Sarangchae:** Relaxed and played with furry friends. ([Naver Maps](https://naver.me/FOMl6d2Q))
   - Returned to accommodation to unwind.  
 
 ---
@@ -27,7 +27,7 @@ title: Reports
 
 - **Morning:**  
   - **Namsan Seoul Tower:** Hiked up for stunning panoramic views of the city.  
-  - **HongDae:** Had lunch at Kyochon Chicken, a popular local eatery.  
+  - **HongDae:** Had lunch at Kyochon Chicken, a popular local eatery. ([Naver Maps](https://naver.me/GbES8cAZ)) 
 
 - **Afternoon:**  
   - **Hongik University:** Explored the vibrant campus filled with youthful energy.  
@@ -40,7 +40,7 @@ title: Reports
 
 - **Morning:**  
   - **DMZ - Panmunjom:** Visited the Korean Demilitarized Zone, gaining insights into its historical significance.
-  - **Insadong:** Had lunch ([Google Maps](https://maps.app.goo.gl/2XpgBrPrSb9Q6v1cA){:target="_blank"})
+  - **Insadong:** Had lunch at Insadong Chon restaurant ([Naver Maps](https://naver.me/G4rLMpeH))
 
 - **Afternoon:**  
   - **Han River:** Spent a leisurely afternoon by the river.  
