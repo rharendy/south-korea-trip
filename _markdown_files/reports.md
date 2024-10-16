@@ -1,119 +1,117 @@
----
-layout: default
-title: Reports
----
-### **Trip Summary - Day 1 (October 6, 2024, Seoul)**  
-**Total steps:** **21K**
+### **Trip Summary**
 
-**Morning:**  
-- **Gyeongbokgung Palace**: Watched the **Changing of the Guard Ceremony**  
-- **Bukchon Hanok Village**: Enjoyed a leisurely walk through this traditional area  
-- **EumSikDang Cafe** (Insadong): Had a light lunch  
+#### **Day 1 - October 6, 2024 (Seoul)**  
+**Total Steps:** 21K  
 
-**Afternoon:**  
-- **Cheonggyecheon Stream**: Strolled along the scenic waterway  
-- **Hoji Bobo Steak House** (Itaewon): Dined early  
-- **Myeongdong Shopping Street**: Shopped and enjoyed street food  
-- **Cat Cafe Sarangchae**: Relaxed with furry friends  
-- Returned to accommodation  
+- **Morning:**  
+  - **Gyeongbokgung Palace:** Witnessed the Changing of the Guard Ceremony, immersing in the rich history of Korea.  
+  - **Bukchon Hanok Village:** Strolled leisurely through this traditional area, admiring the beautifully preserved hanoks.  
+  - **EumSikDang Cafe (Insadong):** Enjoyed a light lunch featuring local flavors.  
+
+- **Afternoon:**  
+  - **Cheonggyecheon Stream:** Walked along the scenic waterway, appreciating the tranquil surroundings.  
+  - **Hoji Bobo Steak House (Itaewon):** Dined early, savoring a delicious meal.  
+  - **Myeongdong Shopping Street:** Explored shops and relished street food delights.  
+  - **Cat Cafe Sarangchae:** Relaxed and played with furry friends.  
+  - Returned to accommodation to unwind.  
 
 ---
 
-### **Trip Summary - Day 2 (October 7, 2024, Seoul)**  
-**Total steps:** **22K**
+#### **Day 2 - October 7, 2024 (Seoul)**  
+**Total Steps:** 22K  
 
-**Morning:**  
-- **Namsan Seoul Tower**: Hiked up for stunning views  
-- **HongDae**: Had lunch at **Kyochon Chicken**  
+- **Morning:**  
+  - **Namsan Seoul Tower:** Hiked up for stunning panoramic views of the city.  
+  - **HongDae:** Had lunch at Kyochon Chicken, a popular local eatery.  
 
-**Afternoon:**  
-- **Hongik University**: Explored the vibrant campus  
-- **National Korean Museum**: Learned about Korea's rich history  
-- **Myeongdong Street Food**: Enjoyed a variety of delicious street food for dinner
-
----
-
-### **Trip Summary - Day 3 (October 8, 2024, Seoul)**
-
-**Morning:**  
-- **DMZ - Panmunjom**: Visited the Korean Demilitarized Zone  
-
-**Afternoon:**  
-- **Han River**: Spent time by the river  
-- Visited **Rudy's place**  
+- **Afternoon:**  
+  - **Hongik University:** Explored the vibrant campus filled with youthful energy.  
+  - **National Korean Museum:** Delved into Korea’s rich history and culture.  
+  - **Myeongdong Street Food:** Relished a variety of delicious street food for dinner.  
 
 ---
 
-### **Trip Summary - Day 4 (October 9, 2024, Seoul/Tokyo)**
+#### **Day 3 - October 8, 2024 (Seoul)**  
 
-**Morning:**  
-- **Blue House**: Visited the presidential residence  
-- **Gyeongbokgung Palace**: Explored the palace while wearing **Hanbok**  
+- **Morning:**  
+  - **DMZ - Panmunjom:** Visited the Korean Demilitarized Zone, gaining insights into its historical significance.  
 
-**Afternoon:**  
-- **Noryangjin Fish Market**: Browsed the famous seafood market  
-- Headed to **Gimpo Airport** for a flight to **Tokyo**
-
-### **Trip Summary - Day 1 (October 10, 2024, Tokyo)**
+- **Afternoon:**  
+  - **Han River:** Spent a leisurely afternoon by the river.  
+  - **Rudy’s Place:** Caught up with friends, sharing stories and experiences.  
 
 ---
 
-### **Trip Summary - Day 1 (October 10, 2024, Tokyo)**
+#### **Day 4 - October 9, 2024 (Seoul/Tokyo)**  
 
-**Morning:**  
-- Arrived in **Tokyo** the night before (Oct 9th)  
-- Visited **Asakusa Shrine**  
-- Explored **Shibuya** (Hachiko Statue) and **Shinjuku** (Memory Lane)  
+- **Morning:**  
+  - **Blue House:** Explored the presidential residence, learning about its significance.  
+  - **Gyeongbokgung Palace:** Experienced the palace while wearing traditional Hanbok attire.  
 
-**Afternoon/Evening:**  
-- Walked through **Takeshita Street** in **Harajuku**  
-- Had dinner at a **Monja restaurant** in **Asakusa** with **Go-san**
-
---- 
-
-### **Trip Summary - Day 2 (October 11, 2024, Tokyo/Yokohama)**
-
-**Morning:**  
-- Left the hotel and had breakfast at a **standing soba restaurant** inside **Shinagawa Station**  
-- Stopped by **Oomori** to visit the location of the old accommodation  
-- Traveled to **Yokohama**, visited the **Ramen Museum** and the **Red Brick Warehouse**  
-
-**Afternoon/Evening:**  
-- Explored **Chinatown** in **Yokohama**  
-- Enjoyed a **reflexology massage**  
-- Had dinner with **Yuri**, **Makie**, and **Yuri's husband** in **Asakusa**
+- **Afternoon:**  
+  - **Noryangjin Fish Market:** Browsed the famous seafood market, immersing in local culture.  
+  - **Gimpo Airport:** Departed for a flight to Tokyo.  
 
 ---
-### **Trip Summary - Day 3 (October 12, 2024, Tokyo)**
 
-**Morning:**  
-- Went **hiking at Mt. Takao**, enjoying the natural scenery  
+#### **Day 5 - October 10, 2024 (Tokyo)**  
 
-**Afternoon/Evening:**  
-- Had dinner at **Ootoya** in **Shinjuku**
+- **Morning:**  
+  - Arrived in Tokyo the previous night (Oct 9th).  
+  - **Asakusa Shrine:** Visited the shrine, enjoying its serene atmosphere.  
+  - **Shibuya:** Explored the Hachiko Statue and the lively streets of Shinjuku (Memory Lane).  
 
----
-### **Trip Summary - Day 4 (October 13, 2024, Tokyo/Kyoto/Nara)**
-
-**Morning:**  
-- Took the **Shinkansen** to **Kyoto Station**  
-- Traveled to **Nara** by train  
-- Returned to **Kyoto** to visit **Fushimi Inari Shrine**  
-
-**Afternoon/Evening:**  
-- Walked through the beautiful **Arashiyama Bamboo Forest**  
-- Had dinner at a **ramen restaurant** in the **Gion area**  
-- Took the **Shinkansen** back to **Tokyo**
+- **Afternoon/Evening:**  
+  - **Takeshita Street in Harajuku:** Strolled through this vibrant shopping street.  
+  - **Dinner:** Enjoyed a delightful meal at a Monja restaurant in Asakusa with Go-san.  
 
 ---
-### **Trip Summary - Day 5 (October 14, 2024, Tokyo)**
 
-**Morning:**  
-- Had breakfast at **Komeda Coffee**  
-- Shopped for gifts in **Asakusa** and the **Kappabashi** area  
-- Visited the **Ghibli Museum**  
+#### **Day 6 - October 11, 2024 (Tokyo/Yokohama)**  
 
-**Afternoon/Evening:**  
-- Went to **Shinjuku** for a **reflexology session**  
-- Celebrated wife's birthday with dinner at a restaurant in **Ginza**
+- **Morning:**  
+  - **Breakfast:** Left the hotel and had breakfast at a standing soba restaurant inside Shinagawa Station.  
+  - **Oomori:** Stopped by to visit the location of my old accommodation.  
+  - **Yokohama:** Explored the Ramen Museum and the Red Brick Warehouse.  
 
+- **Afternoon/Evening:**  
+  - **Chinatown in Yokohama:** Wandered through the bustling streets, enjoying local delicacies.  
+  - **Reflexology Massage:** Relaxed with a soothing massage.  
+  - **Dinner:** Enjoyed dinner with Yuri, Makie, and Yuri’s husband in Asakusa.  
+
+---
+
+#### **Day 7 - October 12, 2024 (Tokyo)**  
+
+- **Morning:**  
+  - **Mt. Takao:** Hiked through beautiful natural scenery, soaking in the fresh air.  
+
+- **Afternoon/Evening:**  
+  - **Dinner:** Dined at Ootoya in Shinjuku, relishing traditional Japanese cuisine.  
+
+---
+
+#### **Day 8 - October 13, 2024 (Tokyo/Kyoto/Nara)**  
+
+- **Morning:**  
+  - **Shinkansen to Kyoto Station:** Took the high-speed train to Kyoto.  
+  - **Nara:** Transferred to Nara by train to explore the historic site.  
+  - **Fushimi Inari Shrine:** Returned to Kyoto to visit this iconic shrine.  
+
+- **Afternoon/Evening:**  
+  - **Arashiyama Bamboo Forest:** Walked through the stunning bamboo grove.  
+  - **Dinner:** Enjoyed a delicious ramen meal in the Gion area.  
+  - **Shinkansen Back to Tokyo:** Returned to Tokyo after a fulfilling day.  
+
+---
+
+#### **Day 9 - October 14, 2024 (Tokyo)**  
+
+- **Morning:**  
+  - **Komeda Coffee:** Started the day with breakfast at this cozy café.  
+  - **Shopping:** Bought gifts in Asakusa and the Kappabashi area.  
+  - **Ghibli Museum:** Visited the enchanting Ghibli Museum, celebrating the art of animation.  
+
+- **Afternoon/Evening:**  
+  - **Shinjuku:** Headed to Shinjuku for a relaxing reflexology session.  
+  - **Birthday Celebration:** Ended the trip with a special dinner at a restaurant in Ginza to celebrate my wife’s birthday.  
