@@ -82,3 +82,36 @@ title: Reports
 - Had dinner with **Yuri**, **Makie**, and **Yuri's husband** in **Asakusa**
 
 ---
+### **Trip Summary - Day 3 (October 12, 2024, Tokyo)**
+
+**Morning:**  
+- Went **hiking at Mt. Takao**, enjoying the natural scenery  
+
+**Afternoon/Evening:**  
+- Had dinner at **Ootoya** in **Shinjuku**
+
+---
+### **Trip Summary - Day 4 (October 13, 2024, Tokyo/Kyoto/Nara)**
+
+**Morning:**  
+- Took the **Shinkansen** to **Kyoto Station**  
+- Traveled to **Nara** by train  
+- Returned to **Kyoto** to visit **Fushimi Inari Shrine**  
+
+**Afternoon/Evening:**  
+- Walked through the beautiful **Arashiyama Bamboo Forest**  
+- Had dinner at a **ramen restaurant** in the **Gion area**  
+- Took the **Shinkansen** back to **Tokyo**
+
+---
+### **Trip Summary - Day 5 (October 14, 2024, Tokyo)**
+
+**Morning:**  
+- Had breakfast at **Komeda Coffee**  
+- Shopped for gifts in **Asakusa** and the **Kappabashi** area  
+- Visited the **Ghibli Museum**  
+
+**Afternoon/Evening:**  
+- Went to **Shinjuku** for a **reflexology session**  
+- Celebrated your wife's birthday with dinner at a restaurant in **Ginza**
+
