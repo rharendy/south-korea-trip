@@ -3,7 +3,7 @@ layout: default
 title: Reports
 ---
 
-### **Trip Summary**
+### **Seoul and Tokyo Trip Summary**
 
 #### **Day 1 - October 6, 2024 (Seoul)**  
 
