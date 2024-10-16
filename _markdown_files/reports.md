@@ -113,10 +113,10 @@ title: Reports
 #### **Day 9 - October 14, 2024 (Tokyo)**  
 
 - **Morning:**  
-  - **Komeda Coffee:** Started the day with breakfast at this cozy café. ([See in Google map](https://maps.app.goo.gl/LXGu8hYs2nZFsWV96))
-  - **Shopping:** Bought gifts in Asakusa and the Kappabashi area.  
+  - **Komeda Coffee:** Started the day with breakfast at this cozy café. ([See in Google Maps](https://maps.app.goo.gl/LXGu8hYs2nZFsWV96))
+  - **Shopping:** Bought gifts in Asakusa and the Kappabashi area. ([See in Google Maps](https://maps.app.goo.gl/9rtddub1jWBt2ouA6))
   - **Ghibli Museum:** Visited the enchanting Ghibli Museum, celebrating the art of animation.  
 
 - **Afternoon/Evening:**  
   - **Shinjuku:** Headed to Shinjuku for a relaxing reflexology session.  
-  - **Birthday Celebration:** Ended the trip with a special dinner at a restaurant in Ginza to celebrate my wife’s birthday. ([See in Google map](https://g.co/kgs/aR7sVKJ))
+  - **Birthday Celebration:** Ended the trip with a special dinner at a restaurant in Ginza to celebrate my wife’s birthday. ([See in Google Maps](https://g.co/kgs/aR7sVKJ))
