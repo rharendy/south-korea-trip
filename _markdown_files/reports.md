@@ -118,5 +118,5 @@ title: Reports
   - **Ghibli Museum:** Visited the enchanting Ghibli Museum, celebrating the art of animation.  
 
 - **Afternoon/Evening:**  
-  - **Shinjuku:** Headed to Shinjuku for a relaxing reflexology session.  
+  - **Shinjuku:** Headed to Shinjuku for a relaxing reflexology session. ([Google Maps](https://maps.app.goo.gl/KQKX5qfCkkrGY1Cg9))
   - **Birthday Celebration:** Ended the trip with a special dinner at a restaurant in Ginza to celebrate my wife’s birthday. ([Google Maps](https://maps.app.goo.gl/dHidpvomvXAvuo1x8))
